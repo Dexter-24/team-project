@@ -1,0 +1,22 @@
+.container {
+  max-width: 1278px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-logo {
+}
+.header-nav-list {
+  display: flex;
+  gap: 40px;
+}
+.header-nav-item {
+}
+.header-nav-link {
+  padding-top: 29px;
+  padding-bottom: 28px;
+}
